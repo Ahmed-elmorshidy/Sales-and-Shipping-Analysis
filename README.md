@@ -55,13 +55,13 @@ Based on these insights, the dashboard supports quick decision‑making for mana
 1. **Clone this repo:**
 
    ```bash
-   git clone https://github.com/your-username/Sales-Shipping-Analysis.git
+   git clone [https://github.com/Ahmed-elmorshidy/Sales-and-Shipping-Analysis]
    ```
-2. **Open in Excel:** Launch `Sales_Shipping_Analysis.xlsx`.
+2. **Open in Excel:** Launch `Sales and Shipping Analysis.xlsx`.
 3. **Refresh All:** On the Data tab, select **Refresh All** to update Power Query and Pivot data.
 4. **Interact:** Use slicers and chart filters to explore different dimensions (segment, category, region).
 
-feel free to give me a feedback to inhance my project and my skills .
+Feel free to give me feedback to enhance my project and my skills.
 ---
 
 ## 📫 Contact
