@@ -29,6 +29,9 @@ the Sales & Shipping Analysis project! This repository houses a comprehensive ca
 
 ## 📊 Dashboard Highlights
 
+![Sales and Shipping Analysis Dashboard](https://github.com/user-attachments/assets/e9193d8f-92a6-4404-a8a4-e0ded8acb72f)
+
+
 1. **ShipMode Contribution:** Pie chart showing percentage share of each shipping mode (First Class, Same Day, Second Class, Standard Class).
 2. **Top 10 Customers in Sales:** Bar chart listing top 10 customers by sales volume for targeted account strategies.
 3. **Segment Sales by Category:** Clustered column chart comparing sales (Consumer, Corporate, Home Office) across product categories (Furniture, Office Supplies, Technology).
